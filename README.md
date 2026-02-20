@@ -73,9 +73,6 @@ This application allows users to book sports turfs, manage slots, add reviews, a
 
 ---
 
-
----
-
 ## 🔐 Authentication & Authorization
 
 - JWT-based login system
